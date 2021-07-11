@@ -7,7 +7,7 @@ This is a python cli app to run text detection on images and documents.
 - --image - Specify the image file name
 - --structured - Specify if the image has structured text or unstructured text(Boolean)
 
-##Getting Started
+## Getting Started
 
 Install all libraries required by running:
 
