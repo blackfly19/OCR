@@ -1,6 +1,6 @@
 # OCR
 
-This is a python cli app to run text detection on images and documents.
+This is a python cli app to run text detection on images.
 
 ## Arguments
 
